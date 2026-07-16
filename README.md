@@ -7,7 +7,7 @@ lab data, with an interactive Streamlit web app.
 
 ## Live demo
 
-🔗 **[Add your live Streamlit Cloud link here after deployment]**
+🔗 **[Try it live here]([https://deficiency-predictor-built-by-shahzain.streamlit.app])**
 
 ## Project structure
 
